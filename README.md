@@ -12,3 +12,6 @@ Move disk 1 from B to A
 Move disk 2 from B to C
 Move disk 1 from A to C
 ```
+
+## Why did I create this
+This program exists because I chose to break down the 'Implement the Tower of Hanoi Algorithm' certification project from FreeCodeCamp into smaller chunks to help me understand what it requires. The certification project is difficult so I did this to not build on a shaky foundation.
